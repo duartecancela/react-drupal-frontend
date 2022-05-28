@@ -1,4 +1,5 @@
 import './App.css';
+import Posts from './pages/Posts';
 
 function App() {
   return (
@@ -178,7 +179,7 @@ function App() {
         <script src="js/functions.js"></script>
 
       </body>
-
+        <Posts />
     </div>
   );
 }
